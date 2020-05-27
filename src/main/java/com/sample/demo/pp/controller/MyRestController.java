@@ -1,4 +1,4 @@
-package com.sample.demo.pp.rest.controller;
+package com.sample.demo.pp.controller;
 
 import java.util.Currency;
 import java.util.List;

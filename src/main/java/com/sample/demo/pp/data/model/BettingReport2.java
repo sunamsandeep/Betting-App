@@ -1,6 +1,15 @@
 package com.sample.demo.pp.data.model;
 
 public class BettingReport2 {
+	
+	
+	/*
+	 * 
+	 * POJO used to populate Report 2 records
+	 * 
+	 * 
+	 */
+	
 	private String currency;
 	private Long numOfBets;
 	private Double totalStake;

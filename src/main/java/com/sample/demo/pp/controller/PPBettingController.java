@@ -1,7 +1,6 @@
 package com.sample.demo.pp.controller;
 
-import java.util.Currency;
-import java.util.List;
+
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -10,10 +9,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
-import com.sample.demo.pp.data.model.BettingDTO;
 import com.sample.demo.pp.entity.BetDetails;
 import com.sample.demo.pp.service.BetFetchingService;
 import com.sample.demo.pp.service.ReadFileService;
@@ -31,7 +28,7 @@ public class PPBettingController {
 	
 	@GetMapping
 	public String getBetDetails(Model model){
-		model.addAttribute("bettingDTO", betFetchingService.listSelectedBetting());
+		model.addAttribute("bettingReport1", betFetchingService.listSelectBettingReport1());
 		model.addAttribute("bettingReport2", betFetchingService.listSelectBettingReport2());
 		return "view/betdetails";
 		}

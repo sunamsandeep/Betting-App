@@ -27,6 +27,14 @@ import org.apache.commons.io.FilenameUtils;
 @Service
 @Transactional
 public class ReadFileServiceImpl implements ReadFileService {
+	
+	/*
+	 * This service is responsible to read input files  
+	 * and save data
+	 * 
+	 * 
+	 * 
+	 */
 
 	@Autowired
 	private BettingRepo bettingRepo;
@@ -47,14 +55,11 @@ public class ReadFileServiceImpl implements ReadFileService {
 
 	private boolean isCsvFile(MultipartFile file) {
 		try {
-			bettingRepo.deleteAll();
+			bettingRepo.deleteAll();//deleting all the record before inserting new record
 			
 			InputStreamReader inputStream = new InputStreamReader(file.getInputStream());
-
 			CSVReader csvReader = new CSVReaderBuilder(inputStream).withSkipLines(1).build();
-
 			List<String[]> rows = csvReader.readAll();
-
 			for (String[] row : rows) {
 				bettingRepo
 						.save(new BetDetails(row[0].trim(), new BigInteger(row[1].trim()), new Integer(row[2].trim()),
@@ -71,10 +76,9 @@ public class ReadFileServiceImpl implements ReadFileService {
 	private boolean isJsonFile(MultipartFile file) {
 		try {
 			
-			bettingRepo.deleteAll();
+			bettingRepo.deleteAll();//deleting all the record before inserting new record
 			
 			InputStream inputStream = file.getInputStream();
-			
 			ObjectMapper mapper = new ObjectMapper();
 			
 			List<BetDetails> betDetails = mapper.reader()

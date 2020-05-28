@@ -1,7 +1,7 @@
 package com.sample.demo.pp.data.model;
 
 
-public class BettingDTO {
+public class BettingReport1 {
 
 	private String selectionName;
 	private String currency;
@@ -9,11 +9,11 @@ public class BettingDTO {
 	private Double totalStake;
 	private Double totalLiability;
 
-	public BettingDTO() {
+	public BettingReport1() {
 	}
 	
 
-	public BettingDTO(String selectionName, String currency, Long numOfBets, Double totalStake, Double totalLiability) {
+	public BettingReport1(String selectionName, String currency, Long numOfBets, Double totalStake, Double totalLiability) {
 		super();
 		this.selectionName = selectionName;
 		this.currency = currency;

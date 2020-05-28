@@ -14,6 +14,15 @@ import org.springframework.web.multipart.MultipartFile;
 @Entity
 @Table(name = "bet_details")
 public class BetDetails{
+	
+	
+	/*
+	 * 
+	 * The main model the which JPA uses to bind 
+	 * to the database table.
+	 * 
+	 * 
+	 */
 
 	@Id
 	@Column(name = "bet_id")

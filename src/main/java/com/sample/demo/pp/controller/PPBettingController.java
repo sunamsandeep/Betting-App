@@ -20,7 +20,7 @@ import com.sample.demo.pp.service.ReadFileService;
 
 @Controller
 @RequestMapping("/")
-public class MyRestController {
+public class PPBettingController {
 	
 	@Autowired
 	private BetFetchingService betFetchingService;
@@ -28,16 +28,6 @@ public class MyRestController {
 	@Autowired
 	private ReadFileService readFileService;
 	
-//	@GetMapping("/status/check")
-//	public List<BetDetails> getMessage() {
-//		return betFetchingService.listAllBettingDetails();
-//		}
-//	
-//	@GetMapping("/status/check/v2")
-//	public List<BettingDTO> groupBy() {
-//		return betFetchingService.listSelectedBetting();
-//		}
-//	
 	
 	@GetMapping
 	public String getBetDetails(Model model){
@@ -46,8 +36,10 @@ public class MyRestController {
 		return "view/betdetails";
 		}
 	
+	
 	@PostMapping("/fileupload")
 	public String uploadFile(@ModelAttribute BetDetails betDetails, RedirectAttributes redirectAttributes) {
+		
 		boolean isFlag = readFileService.saveData(betDetails.getFile());
 		
 		if(isFlag) {

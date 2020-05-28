@@ -1,0 +1,200 @@
+betId, betTimestamp, selectionId, selectionName, stake, price, currency
+Bet-10,123767,1, My Fair Lady,0.5,6, GBP
+Bet-11,123768,2, Always a Runner,1.25,4, EUR
+Bet-12,123769,4, Bilbo's Adventure,5,4.5, GBP
+Bet-13,123770,3, Fan the Flames,4.5,5.5, GBP
+Bet-14,123771,2, Always a Runner,7.9,7, EUR
+Bet-15,123772,1, My Fair Lady,3.4,6.5, EUR
+Bet-16,123773,4, Bilbo's Adventure,2.5,6.5, GBP
+Bet-17,123774,2, Always a Runner,1.5,11, EUR
+Bet-18,123775,2, Always a Runner,3.8,5.5, GBP
+Bet-19,123776,3, Fan the Flames,3.4,4, GBP
+Bet-20,123777,4, Bilbo's Adventure,2.25,5, EUR
+Bet-21,123778,2, Always a Runner,5.4,6.5, EUR
+Bet-22,123779,3, Fan the Flames,6.7,6.5, GBP
+Bet-23,123780,3, Fan the Flames,1.1,4.5, EUR
+Bet-24,123781,4, Bilbo's Adventure,2,6.5, GBP
+Bet-25,123782,2, Always a Runner,3.2,6, GBP
+Bet-26,123783,2, Always a Runner,4.2,5, EUR
+Bet-27,123784,3, Fan the Flames,2.1,4.5, EUR
+Bet-28,123785,1, My Fair Lady,7.8,5.5, GBP
+Bet-29,123786,4, Bilbo's Adventure,6.2,6.5, GBP
+Bet-30,123787,4, Bilbo's Adventure,8.4,7.5, EUR
+Bet-31,123788,1, My Fair Lady,10.5,7.3, GBP
+Bet-32,123789,3, Fan the Flames,5,5.5, GBP
+Bet-33,123790,2, Always a Runner,0.75,7, EUR
+Bet-34,123791,3, Fan the Flames,2.1,4.5, EUR
+Bet-35,123792,1, My Fair Lady,7.8,5.5, GBP
+Bet-36,123793,4, Bilbo's Adventure,6.2,6.5, GBP
+Bet-37,123794,4, Bilbo's Adventure,8.4,7.5, EUR
+Bet-38,123795,1, My Fair Lady,10.5,7.3, GBP
+Bet-39,123796,3, Fan the Flames,5,5.5, GBP
+Bet-40,123797,2, Always a Runner,0.75,7, EUR
+Bet-41,123798,2, Always a Runner,0.75,7, EUR
+Bet-42,123799,3, Fan the Flames,2.1,4.5, EUR
+Bet-43,123800,1, My Fair Lady,7.8,5.5, GBP
+Bet-44,123801,4, Bilbo's Adventure,6.2,6.5, GBP
+Bet-45,123802,4, Bilbo's Adventure,8.4,7.5, EUR
+Bet-46,123803,1, My Fair Lady,10.5,7.3, GBP
+Bet-47,123804,3, Fan the Flames,5,5.5, GBP
+Bet-48,123805,2, Always a Runner,0.75,7, EUR
+Bet-49,123806,2, Always a Runner,0.75,7, EUR
+Bet-50,123807,3, Fan the Flames,2.1,4.5, EUR
+Bet-51,123808,1, My Fair Lady,7.8,5.5, GBP
+Bet-52,123809,4, Bilbo's Adventure,6.2,6.5, GBP
+Bet-53,123810,4, Bilbo's Adventure,8.4,7.5, EUR
+Bet-54,123811,1, My Fair Lady,10.5,7.3, GBP
+Bet-55,123812,3, Fan the Flames,5,5.5, GBP
+Bet-56,123813,2, Always a Runner,0.75,7, EUR
+Bet-57,123814,2, Always a Runner,0.75,7, EUR
+Bet-58,123815,3, Fan the Flames,2.1,4.5, EUR
+Bet-59,123816,1, My Fair Lady,7.8,5.5, GBP
+Bet-60,123817,4, Bilbo's Adventure,6.2,6.5, GBP
+Bet-61,123818,4, Bilbo's Adventure,8.4,7.5, EUR
+Bet-62,123819,1, My Fair Lady,10.5,7.3, GBP
+Bet-63,123820,3, Fan the Flames,5,5.5, GBP
+Bet-64,123821,2, Always a Runner,0.75,7, EUR
+Bet-65,123822,4, Bilbo's Adventure,2.5,6.5, GBP
+Bet-66,123823,2, Always a Runner,1.5,11, EUR
+Bet-67,123824,2, Always a Runner,3.8,5.5, GBP
+Bet-68,123825,3, Fan the Flames,3.4,4, GBP
+Bet-69,123826,4, Bilbo's Adventure,2.25,5, EUR
+Bet-70,123827,2, Always a Runner,5.4,6.5, EUR
+Bet-71,123828,3, Fan the Flames,6.7,6.5, GBP
+Bet-72,123829,3, Fan the Flames,1.1,4.5, EUR
+Bet-73,123830,4, Bilbo's Adventure,2,6.5, GBP
+Bet-74,123831,2, Always a Runner,3.2,6, GBP
+Bet-75,123832,2, Always a Runner,4.2,5, EUR
+Bet-76,123833,3, Fan the Flames,2.1,4.5, EUR
+Bet-77,123834,1, My Fair Lady,7.8,5.5, GBP
+Bet-78,123835,4, Bilbo's Adventure,6.2,6.5, GBP
+Bet-79,123836,4, Bilbo's Adventure,8.4,7.5, EUR
+Bet-80,123837,1, My Fair Lady,10.5,7.3, GBP
+Bet-81,123838,3, Fan the Flames,5,5.5, GBP
+Bet-82,123839,2, Always a Runner,0.75,7, EUR
+Bet-83,123840,3, Fan the Flames,2.1,4.5, EUR
+Bet-84,123841,1, My Fair Lady,7.8,5.5, GBP
+Bet-85,123842,4, Bilbo's Adventure,6.2,6.5, GBP
+Bet-86,123843,4, Bilbo's Adventure,8.4,7.5, EUR
+Bet-87,123844,1, My Fair Lady,10.5,7.3, GBP
+Bet-88,123845,3, Fan the Flames,5,5.5, GBP
+Bet-89,123846,2, Always a Runner,0.75,7, EUR
+Bet-90,123847,2, Always a Runner,0.75,7, EUR
+Bet-91,123848,3, Fan the Flames,2.1,4.5, EUR
+Bet-92,123849,1, My Fair Lady,7.8,5.5, GBP
+Bet-93,123850,4, Bilbo's Adventure,6.2,6.5, GBP
+Bet-94,123851,4, Bilbo's Adventure,8.4,7.5, EUR
+Bet-95,123852,4, Bilbo's Adventure,2.5,6.5, GBP
+Bet-96,123853,2, Always a Runner,1.5,11, EUR
+Bet-97,123854,2, Always a Runner,3.8,5.5, GBP
+Bet-98,123855,3, Fan the Flames,3.4,4, GBP
+Bet-99,123856,4, Bilbo's Adventure,2.25,5, EUR
+Bet-100,123857,2, Always a Runner,5.4,6.5, EUR
+Bet-101,123858,3, Fan the Flames,6.7,6.5, GBP
+Bet-102,123859,3, Fan the Flames,1.1,4.5, EUR
+Bet-103,123860,4, Bilbo's Adventure,2,6.5, GBP
+Bet-104,123861,2, Always a Runner,3.2,6, GBP
+Bet-105,123862,2, Always a Runner,4.2,5, EUR
+Bet-106,123863,3, Fan the Flames,2.1,4.5, EUR
+Bet-107,123864,1, My Fair Lady,7.8,5.5, GBP
+Bet-108,123865,4, Bilbo's Adventure,6.2,6.5, GBP
+Bet-109,123866,4, Bilbo's Adventure,8.4,7.5, EUR
+Bet-110,123867,1, My Fair Lady,10.5,7.3, GBP
+Bet-111,123868,3, Fan the Flames,5,5.5, GBP
+Bet-112,123869,2, Always a Runner,0.75,7, EUR
+Bet-113,123870,3, Fan the Flames,2.1,4.5, EUR
+Bet-114,123871,1, My Fair Lady,7.8,5.5, GBP
+Bet-115,123872,4, Bilbo's Adventure,6.2,6.5, GBP
+Bet-116,123873,4, Bilbo's Adventure,8.4,7.5, EUR
+Bet-117,123874,1, My Fair Lady,10.5,7.3, GBP
+Bet-118,123875,3, Fan the Flames,5,5.5, GBP
+Bet-119,123876,2, Always a Runner,0.75,7, EUR
+Bet-120,123877,2, Always a Runner,0.75,7, EUR
+Bet-121,123878,3, Fan the Flames,2.1,4.5, EUR
+Bet-122,123879,1, My Fair Lady,7.8,5.5, GBP
+Bet-123,123880,4, Bilbo's Adventure,6.2,6.5, GBP
+Bet-124,123881,4, Bilbo's Adventure,8.4,7.5, EUR
+Bet-125,123882,4, Bilbo's Adventure,2.5,6.5, GBP
+Bet-126,123883,2, Always a Runner,1.5,11, EUR
+Bet-127,123884,2, Always a Runner,3.8,5.5, GBP
+Bet-128,123885,3, Fan the Flames,3.4,4, GBP
+Bet-129,123886,4, Bilbo's Adventure,2.25,5, EUR
+Bet-130,123887,2, Always a Runner,5.4,6.5, EUR
+Bet-131,123888,3, Fan the Flames,6.7,6.5, GBP
+Bet-132,123889,3, Fan the Flames,1.1,4.5, EUR
+Bet-133,123890,4, Bilbo's Adventure,2,6.5, GBP
+Bet-134,123891,2, Always a Runner,3.2,6, GBP
+Bet-135,123892,2, Always a Runner,4.2,5, EUR
+Bet-136,123893,3, Fan the Flames,2.1,4.5, EUR
+Bet-137,123894,1, My Fair Lady,7.8,5.5, GBP
+Bet-138,123895,4, Bilbo's Adventure,6.2,6.5, GBP
+Bet-139,123896,4, Bilbo's Adventure,8.4,7.5, EUR
+Bet-140,123897,1, My Fair Lady,10.5,7.3, GBP
+Bet-141,123898,3, Fan the Flames,5,5.5, GBP
+Bet-142,123899,2, Always a Runner,0.75,7, EUR
+Bet-143,123900,3, Fan the Flames,2.1,4.5, EUR
+Bet-144,123901,1, My Fair Lady,7.8,5.5, GBP
+Bet-145,123902,4, Bilbo's Adventure,6.2,6.5, GBP
+Bet-146,123903,4, Bilbo's Adventure,8.4,7.5, EUR
+Bet-147,123904,1, My Fair Lady,10.5,7.3, GBP
+Bet-148,123905,3, Fan the Flames,5,5.5, GBP
+Bet-149,123906,2, Always a Runner,0.75,7, EUR
+Bet-150,123907,2, Always a Runner,0.75,7, EUR
+Bet-151,123908,3, Fan the Flames,2.1,4.5, EUR
+Bet-152,123909,1, My Fair Lady,7.8,5.5, GBP
+Bet-153,123910,4, Bilbo's Adventure,6.2,6.5, GBP
+Bet-154,123911,4, Bilbo's Adventure,8.4,7.5, EUR
+Bet-155,123912,4, Bilbo's Adventure,2.5,6.5, GBP
+Bet-156,123913,2, Always a Runner,1.5,11, EUR
+Bet-157,123914,2, Always a Runner,3.8,5.5, GBP
+Bet-158,123915,3, Fan the Flames,3.4,4, GBP
+Bet-159,123916,4, Bilbo's Adventure,2.25,5, EUR
+Bet-160,123917,2, Always a Runner,5.4,6.5, EUR
+Bet-161,123918,3, Fan the Flames,6.7,6.5, GBP
+Bet-162,123919,3, Fan the Flames,1.1,4.5, EUR
+Bet-163,123920,4, Bilbo's Adventure,2,6.5, GBP
+Bet-164,123921,2, Always a Runner,3.2,6, GBP
+Bet-165,123922,2, Always a Runner,4.2,5, EUR
+Bet-166,123923,3, Fan the Flames,2.1,4.5, EUR
+Bet-167,123924,1, My Fair Lady,7.8,5.5, GBP
+Bet-168,123925,4, Bilbo's Adventure,6.2,6.5, GBP
+Bet-169,123926,4, Bilbo's Adventure,8.4,7.5, EUR
+Bet-170,123927,1, My Fair Lady,10.5,7.3, GBP
+Bet-171,123928,3, Fan the Flames,5,5.5, GBP
+Bet-172,123929,2, Always a Runner,0.75,7, EUR
+Bet-173,123930,3, Fan the Flames,2.1,4.5, EUR
+Bet-174,123931,1, My Fair Lady,7.8,5.5, GBP
+Bet-175,123932,4, Bilbo's Adventure,6.2,6.5, GBP
+Bet-176,123933,4, Bilbo's Adventure,8.4,7.5, EUR
+Bet-177,123934,1, My Fair Lady,10.5,7.3, GBP
+Bet-178,123935,3, Fan the Flames,5,5.5, GBP
+Bet-179,123936,2, Always a Runner,0.75,7, EUR
+Bet-180,123937,2, Always a Runner,0.75,7, EUR
+Bet-181,123938,3, Fan the Flames,2.1,4.5, EUR
+Bet-182,123939,1, My Fair Lady,7.8,5.5, GBP
+Bet-183,123940,4, Bilbo's Adventure,6.2,6.5, GBP
+Bet-184,123941,4, Bilbo's Adventure,8.4,7.5, EUR
+Bet-185,123942,4, Bilbo's Adventure,2.5,6.5, GBP
+Bet-186,123943,2, Always a Runner,1.5,11, EUR
+Bet-187,123944,2, Always a Runner,3.8,5.5, GBP
+Bet-188,123945,3, Fan the Flames,3.4,4, GBP
+Bet-189,123946,4, Bilbo's Adventure,2.25,5, EUR
+Bet-190,123947,2, Always a Runner,5.4,6.5, EUR
+Bet-191,123948,3, Fan the Flames,6.7,6.5, GBP
+Bet-192,123949,3, Fan the Flames,1.1,4.5, EUR
+Bet-193,123950,4, Bilbo's Adventure,2,6.5, GBP
+Bet-194,123951,2, Always a Runner,3.2,6, GBP
+Bet-195,123952,2, Always a Runner,4.2,5, EUR
+Bet-196,123953,3, Fan the Flames,2.1,4.5, EUR
+Bet-197,123954,1, My Fair Lady,7.8,5.5, GBP
+Bet-198,123955,4, Bilbo's Adventure,6.2,6.5, GBP
+Bet-199,123956,4, Bilbo's Adventure,8.4,7.5, EUR
+Bet-200,123957,1, My Fair Lady,10.5,7.3, GBP
+Bet-201,123958,3, Fan the Flames,5,5.5, GBP
+Bet-202,123959,2, Always a Runner,0.75,7, EUR
+Bet-203,123960,3, Fan the Flames,2.1,4.5, EUR
+Bet-204,123961,1, My Fair Lady,7.8,5.5, GBP
+Bet-205,123962,4, Bilbo's Adventure,6.2,6.5, GBP
+Bet-206,123963,4, Bilbo's Adventure,8.4,7.5, EUR
+Bet-207,123964,1, My Fair Lady,10.5,7.3, GBP
+Bet-208,123965,3, Fan the Flames,5,5.5, GBP

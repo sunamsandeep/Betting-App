@@ -2,7 +2,7 @@
 
 This application is deployed on AWS cloud using Elastic BeansStalk
 
-Link to the Live instance --> 
+Link to the Live instance --> http://ppbetting-env.eba-c6wtpwqv.us-east-1.elasticbeanstalk.com/
 
 Source code --> https://github.com/sunamsandeep/Betting-App
 

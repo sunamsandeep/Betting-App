@@ -4,6 +4,12 @@ This application is deployed on AWS cloud using Elastic BeansStalk
 
 Link to the Live instance --> 
 
+Source code --> https://github.com/sunamsandeep/Betting-App
+
+Sample Data files --> https://github.com/sunamsandeep/Betting-App/blob/master/test.csv
+		      https://github.com/sunamsandeep/Betting-App/blob/master/test.json
+		
+
 ## pom.xml
 
 ```java
